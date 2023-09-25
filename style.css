@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 12px;
+	font-family: "Rye", cursive;
+	text-align: center;
+}
+h1 {
+	font-size: 6rem;
+	letter-spacing: 0.1875rem;
+}
+.heading2 {
+	font-size: 2.5rem;
+	padding-bottom: 0.8rem;
+	margin: 0.8rem;
+}
+
+.jtb,
+.reward,
+.outlaw {
+	text-transform: uppercase;
+}
+.jtb {
+	font-size: 2.95rem;
+}
+.reward {
+	font-size: 2.5rem;
+	margin: 1.22rem;
+}
+.outlaw,
+.marshall {
+	font-size: 1.3rem;
+	margin: 0.12rem;
+}
+
+img {
+	width: 14rem;
+	margin-top: 0.68rem;
+}
+
+.poster {
+	background-image: url("./images/old-paper.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 2rem 0;
+}
+.middle {
+	display: block;
+}
